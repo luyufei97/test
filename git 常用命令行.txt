@@ -1,0 +1,9 @@
+git config --global user.name "lu"
+git config --global user.email "2624159760@qq.com"
+git config --list
+git add README.md
+git commit -m
+git commit -m "add a README file"
+git reset HEAD
+git status
+git checkout -- LICENSE
